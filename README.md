@@ -48,15 +48,21 @@ Here are some key visualizations from my analysis:
 
 ### 📊 **Pivot Table Example**
 A snapshot of the pivot table showing total sales by region and product category.
-![Pivot Table](link_to_your_image_here)
+
+![image](https://github.com/user-attachments/assets/627b5996-e6a9-4a36-9547-bf50e76c6b65)
+
 
 ### 📈 **Pivot Chart Example**
 A chart visualizing the sales performance trends over time, with slicers applied for easy filtering.
-![Pivot Chart](link_to_your_image_here)
+
+![image](https://github.com/user-attachments/assets/188156ba-f685-4467-8a00-1f65217a820d)
+
 
 ### 💼 **Commission and Total Sales Calculations**
 A quick look at the commission calculations and total sales in the dataset.
-![Commission Calculation](link_to_your_image_here)
+
+![image](https://github.com/user-attachments/assets/229299c0-ade5-448e-a56f-db14847cfb2e)
+
 
 ---
 
