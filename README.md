@@ -40,7 +40,8 @@ To answer this question, a pivot table was created to show **Sales by Month, Qua
 ### 📊 Final Dashboard
 To summarize the findings, an interactive **Excel Dashboard** was created, incorporating **Pivot Charts, Slicers, and a Pivot tables**:
 
-![image](https://github.com/user-attachments/assets/9dd3b6a9-8464-40f6-bff7-c1455d57586a)
+![image](https://github.com/user-attachments/assets/3419dcd6-f038-4a1c-b58a-1ddbedb7e75b)
+
 
 
 ## 📂 Repository Structure
