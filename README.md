@@ -51,11 +51,12 @@ To summarize the findings, an interactive **Excel Dashboard** was created, incor
 - **VLOOKUP & Data Functions** 🔍
 - **Slicers for Data Filtering** 🎛️
 
-## 📥 Getting Started
-1. Download the repository or clone it:
-   ```sh
-   git clone https://github.com/yourusername/Excel-Sales-Analysis.git
-   ```
+## 📅 How to Explore the Analysis  
+
+1️⃣ **Download the dataset** from this repository.  
+2️⃣ **Open it in Microsoft Excel**.  
+3️⃣ Navigate to **Pivot Tables and Charts** to explore insights interactively.  
+4️⃣ Use **Slicers** to filter data dynamically. 
 2. Open the Excel file in `📊 Data/`.
 3. Explore the Pivot Tables, Charts, and Slicers.
 
