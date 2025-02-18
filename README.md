@@ -53,6 +53,7 @@ To summarize the findings, an interactive **Excel Dashboard** was created, incor
 - **Pivot Tables & Charts** 📈
 - **VLOOKUP & Data Functions** 🔍
 - **Slicers for Data Filtering** 🎛️
+- **IF Statement for Age_Group
 
 ## 📅 How to Explore the Analysis  
 
@@ -60,7 +61,6 @@ To summarize the findings, an interactive **Excel Dashboard** was created, incor
 2️⃣ **Open it in Microsoft Excel**.  
 3️⃣ Navigate to **Pivot Tables and Charts** to explore insights interactively.  
 4️⃣ Use **Slicers** to filter data dynamically. 
-2. Open the Excel file in `📊 Data/`.
-3. Explore the Pivot Tables, Charts, and Slicers.
+
 
 Until next time...
