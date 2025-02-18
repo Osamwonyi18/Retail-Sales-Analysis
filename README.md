@@ -6,6 +6,13 @@
 ## 📝 Project Overview
 This project analyzes sales data using **Excel** tools such as **VLOOKUP**, **Pivot Tables**, **Charts**, and **Slicers** to gain insights into different sales metrics.
 
+## 🛠️ Tools & Technologies Used
+- **Microsoft Excel** 🟢
+- **Pivot Tables & Charts** 📈
+- **VLOOKUP & Data Functions** 🔍
+- **Slicers for Data Filtering** 🎛️
+- **IF Statement for Age_Group
+
 ### 🔹 Merging Data
 The first step was to combine datasets using `VLOOKUP` to bring in `Region`, `Income Group`, and `Amount` from the details sheet. Below is a preview of the merged dataset:
 
@@ -45,15 +52,6 @@ To summarize the findings, an interactive **Excel Dashboard** was created, incor
 
 
 
-
-```
-
-## 🛠️ Tools & Technologies Used
-- **Microsoft Excel** 🟢
-- **Pivot Tables & Charts** 📈
-- **VLOOKUP & Data Functions** 🔍
-- **Slicers for Data Filtering** 🎛️
-- **IF Statement for Age_Group
 
 ## 📅 How to Explore the Analysis  
 
