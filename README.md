@@ -9,7 +9,8 @@ This project analyzes sales data using **Excel** tools such as **VLOOKUP**, **Pi
 ### 🔹 Merging Data
 The first step was to combine datasets using `VLOOKUP` to bring in `Region`, `Income Group`, and `Amount` from the details sheet. Below is a preview of the merged dataset:
 
-![Merged Dataset](path/to/merged_dataset.png)
+![image](https://github.com/user-attachments/assets/954e3198-ec5b-4e73-b617-9b61edcb0057)
+
 
 ## 🚀 Features Implemented
 ✅ **Pivot Tables**:
@@ -22,25 +23,25 @@ The first step was to combine datasets using `VLOOKUP` to bring in `Region`, `In
 - Created **charts** for better representation of sales trends.
 - Implemented **Slicers** for interactive filtering.
 
-### 📊 Sales Trends Over Time
-To analyze trends, a pivot table was created to show **Sales by Month, Quarter, and Year**, using **Category and Region as filters**:
+### 📊 "Sales Distribution Across Months, Quarters, and Years"
+To answer this question, a pivot table was created to show **Sales by Month, Quarter, and Year**, using **Category and Region as filters**:
 
-![Sales by Month](path/to/sales_by_month.png)
+![image](https://github.com/user-attachments/assets/1a446999-1288-4653-9679-96a439d5a570)
+
 
 ## 📊 Data Insights
 - Germany's sales are limited to the **Adult (35-64) age group**.
 - Canada's sales are focused only on the **Young Adult (25-34) age group**.
 - Other key observations can be drawn from the interactive charts and Pivot Tables.
 
-### 📋 Answering Business Questions
-For **Question C**, a pivot table was designed to display sales based on **Month, Quarter, and Year** while using **Category and Region as filters**:
 
 ![Question C Analysis](path/to/question_C.png)
 
 ### 📊 Final Dashboard
-To summarize the findings, an interactive **Excel Dashboard** was created, incorporating **Pivot Charts, Slicers, and Key Metrics**:
+To summarize the findings, an interactive **Excel Dashboard** was created, incorporating **Pivot Charts, Slicers, and a Pivot tables**:
 
-![Final Dashboard](path/to/final_dashboard.png)
+![image](https://github.com/user-attachments/assets/9dd3b6a9-8464-40f6-bff7-c1455d57586a)
+
 
 ## 📂 Repository Structure
 ```
