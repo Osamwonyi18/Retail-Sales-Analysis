@@ -9,7 +9,8 @@ This project analyzes sales data using **Excel** tools such as **VLOOKUP**, **Pi
 ### 🔹 Merging Data
 The first step was to combine datasets using `VLOOKUP` to bring in `Region`, `Income Group`, and `Amount` from the details sheet. Below is a preview of the merged dataset:
 
-![image](https://github.com/user-attachments/assets/954e3198-ec5b-4e73-b617-9b61edcb0057)
+![image](https://github.com/user-attachments/assets/77086b76-1cd6-4937-a097-602c7756a7a2)
+
 
 
 ## 🚀 Features Implemented
@@ -38,7 +39,8 @@ To answer this question, a pivot table was created to show **Sales by Month, Qua
 ### 📊 Final Dashboard
 To summarize the findings, an interactive **Excel Dashboard** was created, incorporating **Pivot Charts, Slicers, and a Pivot tables**:
 
-![image](https://github.com/user-attachments/assets/6eafae7d-d596-47ed-9072-11ab3e292e26)
+![image](https://github.com/user-attachments/assets/15c89149-ea5e-4acf-a5a0-09d99a7260da)
+
 
 
 
