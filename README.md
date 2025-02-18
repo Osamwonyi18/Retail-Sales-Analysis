@@ -11,7 +11,7 @@ This project analyzes sales data using **Excel** tools such as **VLOOKUP**, **Pi
 - **Pivot Tables & Charts** 📈
 - **VLOOKUP & Data Functions** 🔍
 - **Slicers for Data Filtering** 🎛️
-- **IF Statement for Age_Group
+- IF Statement for Age_Group
 
 ### 🔹 Merging Data
 The first step was to combine datasets using `VLOOKUP` to bring in `Region`, `Income Group`, and `Amount` from the details sheet. Below is a preview of the merged dataset:
