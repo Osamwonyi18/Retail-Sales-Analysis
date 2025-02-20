@@ -38,9 +38,9 @@ To answer this question, a pivot table was created to show **Sales by Month, Qua
 
 
 ## 📊 Data Insights
-- Accessories generate the highest sales across all regions, followed by Bikes and Clothing**.
-- Sales experience a noticeable decline during the summer months (June - August) before recovering towards the year's end**.
-- High-income groups consistently drive the highest sales, while low-income groups contribute the least**.
+- Accessories generate the highest sales across all regions, followed by Bikes and Clothing.
+- Sales experience a noticeable decline during the summer months (June - August) before recovering towards the year's end.
+- High-income groups consistently drive the highest sales, while low-income groups contribute the least.
 
 
 ### 📊 Final Dashboard
